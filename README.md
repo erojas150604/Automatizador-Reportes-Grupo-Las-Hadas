@@ -51,14 +51,14 @@ Todo el procesamiento se realiza de forma local mediante una interfaz desarrolla
 
 ## Estructura general del proyecto
 ```
-  automatizador-reportes/
-  ├── ui/ # Interfaces de cada reporte
-  ├── core/ # Procesamiento y lógica
-  ├── database/ # Manejo de SQLite
-  ├── pdf_utils/ # Generación de PDFs
-  ├── config/ # Diccionarios dinámicos JSON
-  ├── assets/ # Logos e imágenes
-  └── main.py
+automatizador-reportes/
+├── ui/ # Interfaces de cada reporte
+├── core/ # Procesamiento y lógica
+├── database/ # Manejo de SQLite
+├── pdf_utils/ # Generación de PDFs
+├── config/ # Diccionarios dinámicos JSON
+├── assets/ # Logos e imágenes
+└── main.py
 ```
 ---
 
