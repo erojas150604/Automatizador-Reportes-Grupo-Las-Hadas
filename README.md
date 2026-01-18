@@ -50,7 +50,7 @@ Todo el procesamiento se realiza de forma local mediante una interfaz desarrolla
 ---
 
 ## Estructura general del proyecto
-
+```
   automatizador-reportes/
   ├── ui/ # Interfaces de cada reporte
   ├── core/ # Procesamiento y lógica
@@ -59,7 +59,7 @@ Todo el procesamiento se realiza de forma local mediante una interfaz desarrolla
   ├── config/ # Diccionarios dinámicos JSON
   ├── assets/ # Logos e imágenes
   └── main.py
-
+```
 ---
 
 ## Tipos de reportes generados
