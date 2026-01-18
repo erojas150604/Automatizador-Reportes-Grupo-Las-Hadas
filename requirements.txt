@@ -1,0 +1,7 @@
+tk
+fpdf
+pandas
+matplotlb
+openpyxl
+sqlite3
+xlsxwriter
